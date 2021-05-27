@@ -1,6 +1,6 @@
 # Budget Console bank in C#⁣
 ----
-# User options:
+### User options:
 - Balance
 - Deposit
 - Withdrawal
@@ -11,7 +11,7 @@
 - Pay off the credit
 - Transfer
 
-# Admin options:
+### Admin options:
 - Block
 - Unblock
 - Add new user
@@ -22,6 +22,6 @@
 - List of current debtors
 - List of all accounts
 
-# Screenshots:
+### Screenshots:
 
 ![](https://i.imgur.com/kvzVAvv.png)
