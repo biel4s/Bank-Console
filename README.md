@@ -25,3 +25,7 @@
 ### Screenshots:
 
 ![](https://i.imgur.com/kvzVAvv.png)
+
+### Things to do: 
+- Make option to log in to different account
+- .
