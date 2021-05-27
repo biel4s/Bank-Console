@@ -1,9 +1,27 @@
-<!DOCTYPE html>
-<html>
-<body>
+# Budget Console bank in C#⁣
+----
+# User options:
+- Balance
+- Deposit
+- Withdrawal
+- Sum of Deposits
+- Sum of WIthdrawals
+- History of operations (needs to be fixed)
+- Take the credit
+- Pay off the credit
+- Transfer
 
-<p style="font-size:50px;"> Bank console in C# </p>
+# Admin options:
+- Block
+- Unblock
+- Add new user
+- Remove user
+- Sum of money from all accounts
+- Sum of credit from all accounts
+- Credit history
+- List of current debtors
+- List of all accounts
 
-  
-</body>
-</html>
+#Screenshots:
+
+![](https://i.imgur.com/kvzVAvv.png)
