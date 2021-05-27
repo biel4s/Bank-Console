@@ -28,4 +28,5 @@
 
 ### Things to do: 
 - Make option to log in to different account
+- Return to menu after choosing an option
 - .
