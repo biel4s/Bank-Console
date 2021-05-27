@@ -1,0 +1,5 @@
+C:\Users\piotr\Desktop\szkola\2 semestr\Programowanie obiektowe\Zaliczenie\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\publish\ConsoleApp1.exe
+C:\Users\piotr\Desktop\szkola\2 semestr\Programowanie obiektowe\Zaliczenie\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\publish\ConsoleApp1.dll
+C:\Users\piotr\Desktop\szkola\2 semestr\Programowanie obiektowe\Zaliczenie\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\publish\ConsoleApp1.deps.json
+C:\Users\piotr\Desktop\szkola\2 semestr\Programowanie obiektowe\Zaliczenie\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\publish\ConsoleApp1.runtimeconfig.json
+C:\Users\piotr\Desktop\szkola\2 semestr\Programowanie obiektowe\Zaliczenie\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\publish\ConsoleApp1.pdb
