@@ -22,6 +22,6 @@
 - List of current debtors
 - List of all accounts
 
-#Screenshots:
+# Screenshots:
 
 ![](https://i.imgur.com/kvzVAvv.png)
