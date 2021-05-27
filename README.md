@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<p style="color:red;"> Bank Console </p>
-Bank console in C#
+<p style="font-size:50px;"> Bank console in C# </p>
+
   
 </body>
 </html>
